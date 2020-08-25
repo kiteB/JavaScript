@@ -8,6 +8,3 @@ console.log(lattePrice * 4 + mochaPrice * 2);
 console.log(espressoPrice + mochaPrice);
 console.log(espressoPrice + lattePrice * 3 + mochaPrice * 2);
 console.log(lattePrice * 3);
-
-
-
